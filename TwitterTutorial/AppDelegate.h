@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "TweetViewController.h"
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
